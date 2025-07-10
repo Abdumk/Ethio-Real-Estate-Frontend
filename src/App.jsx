@@ -7,7 +7,7 @@ function App() {
   return (
     <>
      <div>
-      <h1>Ethio-real-estate</h1>
+      <h1>Ethiopian-real-estate</h1>
     </div>
       
     </>
